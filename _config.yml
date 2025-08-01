@@ -77,7 +77,7 @@ source_url:  https://our-earth.github.io
 url: 'https://our-earth.github.io'
 
 exclude:
-  - assets/css
+  #- assets/css
   - node_modules
   - vendor
   - .travis.yml
