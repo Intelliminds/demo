@@ -72,7 +72,7 @@ repo: jasper2
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
-production_url:  https://our-earth.github.io/
+production_url:  https://our-earth.github.io
 source_url:  https://our-earth.github.io
 url: 'https://our-earth.github.io'
 
