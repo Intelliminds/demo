@@ -73,7 +73,8 @@ branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
 production_url:  https://our-earth.github.io/
-source_url:  https://github.com/jekyllt/jasper2/
+source_url:  https://our-earth.github.io
+url: 'https://our-earth.github.io'
 
 exclude:
   - assets/css
