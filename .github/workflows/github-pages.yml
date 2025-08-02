@@ -1,3 +1,5 @@
+# .github/workflows/github-pages.yml
+
 name: Deploy Jekyll site to Pages
 
 on:
@@ -33,7 +35,7 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - uses: actions/upload-pages-artifact@v2
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
 
@@ -45,4 +47,4 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - id: deploy
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
