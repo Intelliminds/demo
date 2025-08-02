@@ -5,7 +5,7 @@ excerpt: 'Short teaser used by social cards & RSS'
 image: 'https://images.pexels.com/photos/27348308/pexels-photo-27348308.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200'
 tags: [strategy, results]          # optional – will feed the tag pages
 ---
-GarageBand is a free digital audio workstation for Mac, iPhone, and iPad that lets users record, edit, and mix music or podcasts with ease.  
+GGarageBand is a free digital audio workstation for Mac, iPhone, and iPad that lets users record, edit, and mix music or podcasts with ease.  
 
 Whether you’re a musician, podcaster, educator, or creative professional, GarageBand offers intuitive tools, built-in instruments, and studio-quality effects—right out of the box.  
 
