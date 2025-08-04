@@ -4,7 +4,8 @@ layout: post
 cover: 'assets/images/piano.jpg'
 excerpt: 'Short teaser used by social cards & RSS'
 image: 'https://images.pexels.com/photos/27348308/pexels-photo-27348308.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200'
-tags: [strategy, results]
+tags: [list-post]
+author: Intelliminds
 ---
 GarageBand is a free digital audio workstation for Mac, iPhone, and iPad that lets users record, edit, and mix music or podcasts with ease.  
 
