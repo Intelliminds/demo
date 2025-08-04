@@ -1,16 +1,14 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
-  cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
-  description: False
-  cover: False
+guide:
+  name: 'Guide'
+  description: 'Step-by-step walkthroughs that help readers accomplish a specific task from start to finish.'
+  cover: false
+
+list-post:
+  name: 'List Post'
+  description: 'Curated, easy-to-scan lists of tools, ideas, stats, or resources that deliver quick value.'
+  cover: false
+
+expanded-definition:
+  name: 'Expanded Definition'
+  description: 'In-depth explanations of key concepts, terms, or frameworks, including practical examples and FAQs.'
+  cover: false
