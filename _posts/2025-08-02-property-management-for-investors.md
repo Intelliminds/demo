@@ -55,6 +55,8 @@ Digital systems elevate your returns:
 - Tenant portals solve problems faster, which leads to better reviews and higher retention.
 - Data from local rent and expense trends informs every decision and forecast.
 
+![Image description](https://images.pexels.com/photos/7109063/pexels-photo-7109063.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200)
+
 ## How Property Management Boosts Returns for Real Estate Investors
 
 Every investor wants higher returns, fewer headaches, and a steady stream of rent. Mastering the Upstate market means doing more than collecting checks—it’s about optimizing every step.
