@@ -4,7 +4,7 @@ current: post
 cover: 'assets/images/piano.jpg'
 navigation: true
 title: Down The Rabbit Hole
-tags: Guide
+tags: [guide]
 class: post-template
 subclass: 'post'
 author: Intelliminds
