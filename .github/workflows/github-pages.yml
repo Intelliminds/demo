@@ -26,9 +26,6 @@ jobs:
         with:
           node-version: '10'
 
-      - run: npm install
-      - run: npx gulp build --exit
-
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1'
