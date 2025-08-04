@@ -1,8 +1,8 @@
 url: 'https://our-earth.github.io'
 baseurl: '/demo'
 
-title: 'Intelliminds'
-description: 'See article previews'
+title: 'Demo Articles'
+description: 'AI-powered content & growth strategies that get results.'
 
 paginate: 100
 language: 'en-uk'
