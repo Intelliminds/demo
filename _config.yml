@@ -1,5 +1,5 @@
 url: 'https://our-earth.github.io'
-baseurl: '/demo'
+baseurl: '/demo/'
 
 title: 'Demo Drafts'
 description: 'Client preview drafts'
