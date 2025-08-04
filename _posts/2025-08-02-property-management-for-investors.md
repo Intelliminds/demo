@@ -1,3 +1,16 @@
+---
+layout: post
+current: post
+cover: 'assets/images/piano.jpg'
+navigation: true
+title: Down The Rabbit Hole
+date: 1865-11-26 10:18:00
+tags: fiction
+class: post-template
+subclass: 'post'
+author: lewis
+---
+
 Property management for investors in Upstate South Carolina is more than just collecting rent—it's the key to reducing stress, protecting your assets, and growing your returns as the market expands.  
 We see how the pressure of finding reliable tenants and staying profitable can wear on property owners.  
 
