@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/residential property management SC.webp'
+cover: 'assets/images/residential-property-management-SC.webp'
 navigation: true
 title: 'What Is Residential Property Management SC? Maximize Returns'
 tags: [expanded-definition]

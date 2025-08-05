@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/comprehensive property management.webp'
+cover: 'assets/images/comprehensive-property-management.webp'
 navigation: true
 title: 'What Is Comprehensive Property Management? Simplify & Maximize'
 tags: [expanded-definition]

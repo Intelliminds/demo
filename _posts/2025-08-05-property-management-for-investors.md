@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 'assets/images/property management for investors.webp'
+cover: 'assets/images/property-management-for-investors.webp'
 navigation: true
 title: 'Property Management for Investors: Boost Returns in Upstate SC'
 tags: [guide]
