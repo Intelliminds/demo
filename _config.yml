@@ -1,8 +1,8 @@
 url: 'https://our-earth.github.io'
 baseurl: '/demo'
 
-title: 'Demo Articles'
-description: 'AI-powered content & growth strategies that get results.'
+title: 'Preview Your Upcoming Articles'
+description: 'High-impact content designed to delight visitors and drive traffic.'
 
 paginate: 100
 language: 'en-uk'
